@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
