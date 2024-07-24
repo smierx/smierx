@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**smierx/smierx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/smierx/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smierx&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
+</a>
+
+<a href="https://github.com/smierx/qmk_firmware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smierx&repo=qmk_firmware&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="qmk" />
+</a>
